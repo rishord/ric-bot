@@ -1,0 +1,7 @@
+{
+  "token": "MzU5NDQxODk3ODU0MzM3MDM0.DKHD8w.r8Z12iD32iw6AevrqOjE0uUh2fg",
+  "prefix": ".",
+  "version": "0.0.3",
+  "name": "ric-bot",
+  "main": "bot.js"
+}
